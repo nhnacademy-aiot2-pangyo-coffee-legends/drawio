@@ -240,9 +240,6 @@
         <mxCell id="NLGrbsMWpO_nzSLnsOxm-42" value="Influx&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DB&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="840" y="-919.37" width="60" height="51.25" as="geometry" />
         </mxCell>
-        <mxCell id="NLGrbsMWpO_nzSLnsOxm-51" value="&lt;div&gt;[시간이 남으면ㅋ]&lt;/div&gt;1-4 피크타임 예측" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="-1160" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="NLGrbsMWpO_nzSLnsOxm-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" source="NLGrbsMWpO_nzSLnsOxm-7" target="NLGrbsMWpO_nzSLnsOxm-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="767.5" y="-890" as="sourcePoint" />
