@@ -621,14 +621,14 @@
         <mxCell id="gpCe8HnvRcejdwl_GIVl-50" value="Influx&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DB&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="988.5" y="220" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gpCe8HnvRcejdwl_GIVl-53" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;관리자의 아키텍처&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="310" width="730" height="260" as="geometry" />
+        <mxCell id="gpCe8HnvRcejdwl_GIVl-53" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;관리자의 아키텍처&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="730" height="310" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpCe8HnvRcejdwl_GIVl-55" target="gpCe8HnvRcejdwl_GIVl-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-55" value="사용자&lt;div&gt;MEMBER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpCe8HnvRcejdwl_GIVl-59" target="gpCe8HnvRcejdwl_GIVl-65">
           <mxGeometry relative="1" as="geometry" />
@@ -636,50 +636,63 @@
         <mxCell id="gpCe8HnvRcejdwl_GIVl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpCe8HnvRcejdwl_GIVl-59" target="gpCe8HnvRcejdwl_GIVl-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="722" y="410" />
-              <mxPoint x="722" y="470" />
+              <mxPoint x="722" y="390" />
+              <mxPoint x="722" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpCe8HnvRcejdwl_GIVl-59" target="gpCe8HnvRcejdwl_GIVl-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="722" y="410" />
-              <mxPoint x="722" y="530" />
+              <mxPoint x="722" y="390" />
+              <mxPoint x="722" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpCe8HnvRcejdwl_GIVl-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gpCe8HnvRcejdwl_GIVl-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="390" as="sourcePoint" />
+            <mxPoint x="794" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="722" y="390" />
+              <mxPoint x="722" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-59" value="Front&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="592" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpCe8HnvRcejdwl_GIVl-61" target="gpCe8HnvRcejdwl_GIVl-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="942" y="470" />
-              <mxPoint x="942" y="410" />
+              <mxPoint x="942" y="450" />
+              <mxPoint x="942" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-61" value="API&lt;div&gt;예약&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="792" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="792" y="430" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpCe8HnvRcejdwl_GIVl-63" target="gpCe8HnvRcejdwl_GIVl-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-63" value="&lt;div&gt;API&lt;/div&gt;출입보안" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="792" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="792" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpCe8HnvRcejdwl_GIVl-65" target="gpCe8HnvRcejdwl_GIVl-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-65" value="&lt;div&gt;API&lt;/div&gt;Member" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="792" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="792" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-66" value="MySQL&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="992" y="390" width="60" height="40" as="geometry" />
+          <mxGeometry x="992" y="370" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gpCe8HnvRcejdwl_GIVl-67" value="Influx&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DB&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="988.5" y="510" width="60" height="40" as="geometry" />
+          <mxGeometry x="988.5" y="490" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gpCe8HnvRcejdwl_GIVl-68" value="&lt;div&gt;API&lt;/div&gt;Rule-Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="792" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
