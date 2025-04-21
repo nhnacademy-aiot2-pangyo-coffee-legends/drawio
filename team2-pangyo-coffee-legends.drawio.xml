@@ -304,6 +304,13 @@
         <mxCell id="ioxRFbp5Mi-UubZn_y4M-43" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1102" y="-1055" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gpCe8HnvRcejdwl_GIVl-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioxRFbp5Mi-UubZn_y4M-47" target="ioxRFbp5Mi-UubZn_y4M-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="-835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ioxRFbp5Mi-UubZn_y4M-47" value="Influx&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DB&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1102" y="-931.37" width="60" height="51.25" as="geometry" />
         </mxCell>
